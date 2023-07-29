@@ -1,0 +1,66 @@
+[33mcommit d080744d3b196c72cbe34716dbc25c3902ec66cf[m[33m ([m[1;36mHEAD -> [m[1;32mlevel2[m[33m)[m
+Merge: 2df2e04 10dff0b
+Author: dehjaza2001 <81430050+dehjaza2001@users.noreply.github.com>
+Date:   Sat Jul 29 14:07:33 2023 +0700
+
+    Merge branch 'level2' of https://github.com/hoai1107/game-midterm into level2
+
+[33mcommit 2df2e04e0cfd9902425c65fac3c0cb3e201e52d3[m
+Author: dehjaza2001 <81430050+dehjaza2001@users.noreply.github.com>
+Date:   Sat Jul 29 14:07:22 2023 +0700
+
+    main menu and dead scene
+
+[33mcommit 10dff0bf090487c5dd35449285a45b394f47de7d[m[33m ([m[1;31morigin/level2[m[33m)[m
+Author: hoai1107 <khaihoai1107@gmail.com>
+Date:   Sat Jul 29 10:09:24 2023 +0700
+
+    Complete level 2
+
+[33mcommit e57c9b1a049500d71567bfb57839c5c7f3c06645[m
+Author: hoai1107 <khaihoai1107@gmail.com>
+Date:   Fri Jul 28 20:56:53 2023 +0700
+
+    Add spike head prefab
+
+[33mcommit 32f4c7a6feaa40c5ed45ea3f22a06462a4732ce4[m
+Author: hoai1107 <khaihoai1107@gmail.com>
+Date:   Fri Jul 28 20:55:38 2023 +0700
+
+    Update level 2
+
+[33mcommit 16852c8392bd4def222359da089c6f0bb9ac65db[m
+Author: dehjaza2001 <81430050+dehjaza2001@users.noreply.github.com>
+Date:   Thu Jul 27 22:28:54 2023 +0700
+
+    update layout
+
+[33mcommit 9baeb8cd3842aefe4ef10321b1429432472cf4b1[m
+Author: dehjaza2001 <81430050+dehjaza2001@users.noreply.github.com>
+Date:   Thu Jul 27 00:19:05 2023 +0700
+
+    level 3 layout
+
+[33mcommit 6b68083deba1e0bfe846a93a50cca944b43a804a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/level1[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: hoai1107 <khaihoai1107@gmail.com>
+Date:   Tue Jul 25 22:24:27 2023 +0700
+
+    Small change
+
+[33mcommit ac4d21b3b1fa4548af3935262ae1ca28991fe064[m
+Author: hoai1107 <khaihoai1107@gmail.com>
+Date:   Tue Jul 25 22:05:09 2023 +0700
+
+    Finish level 1
+
+[33mcommit bc91643379dc32f405af00a48ef4a9a9b8aafbbf[m
+Author: hoai1107 <khaihoai1107@gmail.com>
+Date:   Mon Jul 24 23:51:23 2023 +0700
+
+    Add initial scripts and logic
+
+[33mcommit 503037810a52f7e2b6d74e273161b806b1c931ad[m
+Author: Thai Vo Duc Trong <70931622+dtrongtvo@users.noreply.github.com>
+Date:   Sun Jul 23 12:54:33 2023 +0700
+
+    level 1
