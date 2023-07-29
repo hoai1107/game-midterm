@@ -7243,7 +7243,7 @@ PrefabInstance:
       objectReference: {fileID: 1721470577}
     - target: {fileID: 4993123201305372150, guid: 8cb7df974c7e833439b240c0fa85b948, type: 3}
       propertyPath: m_Enabled
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5596626393085964206, guid: 8cb7df974c7e833439b240c0fa85b948, type: 3}
       propertyPath: DeathAudioSrc
